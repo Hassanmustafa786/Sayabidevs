@@ -98,6 +98,16 @@
         </div>
     </section>
     <script>
+          $(window).scroll(function() {
+                $('.animated').each(function(){
+                    const position = $(this).offset().top;
+                    const topOfScreen = $(window).scrollTop();
+                    const windowHeight = $(window).height();
+                    if (position < topOfScreen + windowHeight - 100) {
+                        $(this).addClass('in-view');
+                    }
+                });
+            });
     </script>
 </body>
 </html>
