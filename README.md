@@ -1,12 +1,6 @@
 # Sayabidevs-Internship
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hafiz Hassan Mustafa - Portfolio</title>
-    <style>
+<style>
       body {
         font-family: Arial, sans-serif;
         background-color: #e9e0e0;
@@ -86,7 +80,7 @@
 <body>
    <section id="profile">
         <div class="profile-image">
-            <img src="profile1.png" alt="Your Name">
+            <img src="Untitled design (6)-min.png" alt="Your Name">
         </div>
         <div class="profile-info">
             <h1>Hafiz Hassan Mustafa</h1>
