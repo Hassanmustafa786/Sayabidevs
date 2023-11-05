@@ -3,7 +3,7 @@
 
 <section id="profile">
         <div class="profile-info">
-            <h1>Hafiz Hassan Mustafa</h1>
+            <h2>Hafiz Hassan Mustafa</h2>
             <p><b>AI/ML/DL Engineer</b></p>
             <p>Reliable candidate studied Mechanical Engineering and having hands-on experience in 
                 Machine Learning & Deep Learning seeking an junior level position to expand skills and 
